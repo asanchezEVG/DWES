@@ -1,0 +1,26 @@
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+td {
+    font-weight: bold;
+}
+
+th {
+    background-color: #76c279;
+    color: rgb(0, 0, 0);
+}
+
+tfoot {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
